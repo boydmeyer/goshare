@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-go install github.com/boydmeyer/goshare
+go install github.com/boydmeyer/goshare@latest
 ```
 
 ```bash
